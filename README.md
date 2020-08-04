@@ -1,6 +1,6 @@
 ## Hi there, I'm Rizki Kurniawan 👋
 
-I am an android developer. Find out more about me & feel free to connect with me here:
+I am android developer. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizki_kurniaa/)](https://instagram.com/rizki_kurniaa)
 [![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
