@@ -1,1 +1,1 @@
-<img align="left" alt="rizkikurniaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rizkikurniaa&show_icons=true&hide_border=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkikurniaa&show_icons=true&theme=radical)
