@@ -13,5 +13,12 @@ I am android developer. Find out more about me & feel free to connect with me he
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=shades-of-purple" />
 </a>
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://rizkikurniaa.github.io/assets/img/tools/as.png"></code>
+<code><img height="20" src="https://rizkikurniaa.github.io/assets/img/tools/json.png"></code>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
