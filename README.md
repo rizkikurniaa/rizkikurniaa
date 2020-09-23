@@ -12,5 +12,6 @@ I am android developer. Find out more about me & feel free to connect with me he
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=shades-of-purple" />
 </a>
-<br>
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
