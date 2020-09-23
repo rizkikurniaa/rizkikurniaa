@@ -7,6 +7,5 @@ I am android developer. Find out more about me & feel free to connect with me he
 [![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikunote)](https://www.youtube.com/c/Kikunote)
 
 ![Rizki's github stats](https://github-readme-stats.vercel.app/api?username=rizkikurniaa&show_icons=true&theme=calm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact)](https://github.com/rizkikurniaa/github-readme-stats) 
-[![Rizki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkikurniaa)](https://github.com/rizkikurniaa/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
