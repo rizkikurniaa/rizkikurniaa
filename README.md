@@ -12,7 +12,7 @@ I am android developer. Find out more about me & feel free to connect with me he
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=shades-of-purple" />
 </a>
-<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
