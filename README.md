@@ -6,8 +6,6 @@ I am android developer. Find out more about me & feel free to connect with me he
 [![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikunote)](https://www.youtube.com/c/Kikunote)
 
-**Languages and Tools:**  
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
