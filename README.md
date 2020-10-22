@@ -19,7 +19,7 @@ I am android developer. Find out more about me & feel free to connect with me <i
 </p>
 
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkikurniaa&show_icons=true&include_all_commits=true&theme=shades-of-purple" alt="Rizki's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkikurniaa&count_private=true&show_icons=true&include_all_commits=true&theme=shades-of-purple" alt="Rizki's github stats" />
 </a>
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=shades-of-purple" />
