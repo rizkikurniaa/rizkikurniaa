@@ -1,6 +1,6 @@
 ## Hi there, I'm Rizki Kurniawan <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Hi.gif" width="29px">
 
-I am android developer. Find out more about me & feel free to connect with me <img align="center" src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Handshake.gif" height="33px" />
+I am android developer. Find out more about me & feel free to connect with me<img align="center" src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Handshake.gif" height="33px" />
 
 [![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizki_kurniaa/)](https://instagram.com/rizki_kurniaa)
 [![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
