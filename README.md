@@ -4,7 +4,7 @@ I am android developer. Find out more about me & feel free to connect with me<im
 
 [![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizki_kurniaa/)](https://instagram.com/rizki_kurniaa)
 [![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikunote)](https://www.youtube.com/c/Kikunote)
+[![Youtube Badge](https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikulabs)](https://www.youtube.com/c/Kikulabs)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
