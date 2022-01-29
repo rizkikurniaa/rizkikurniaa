@@ -25,4 +25,6 @@ I am android developer. Find out more about me & feel free to connect with me<im
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=algolia" />
 </a>
 
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" /> </p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
