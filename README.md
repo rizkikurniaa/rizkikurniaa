@@ -19,13 +19,14 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="git" width="40" height="40"/> </a>  
 </p>
 
+<p align="center">
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkikurniaa&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" alt="Rizki's github stats" width="420" />
 </a>
 <a href="https://github.com/rizkikurniaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=onedark" height="165" />
 </a>
-
-<p align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p>
+</p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
