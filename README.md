@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white">
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
+#### 💻 Stack I Work With
+<p align="center"> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
