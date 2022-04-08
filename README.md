@@ -1,12 +1,13 @@
-## Hi there, I'm Rizki Kurniawan <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Hi.gif" width="29px">
+<h1 align="center">Hi there, I'm Rizki Kurniawan <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-I am android developer. Find out more about me & feel free to connect with me<img align="center" src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Handshake.gif" height="33px" />
+<h3 align="center">I am android developer.</h3>
 
-[![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizki_kurniaa/)](https://instagram.com/rizki_kurniaa)
-[![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikulabs)](https://www.youtube.com/c/Kikulabs)
+<p align="center">
+<img src="https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white")>
+<img src="https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/java.png" alt="java" width="40" height="40"/> </a> 
@@ -25,6 +26,6 @@ I am android developer. Find out more about me & feel free to connect with me<im
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=onedark" height="165" />
 </a>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" /> </p>
+<p align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
