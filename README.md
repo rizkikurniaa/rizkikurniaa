@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rizki Kurniawan <img src="https://github.com/rizkikurniaa/rizkikurniaa/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi there, I'm Rizki Kurniawan</h1>
 
 <h3 align="center">I am android developer.</h3>
 
