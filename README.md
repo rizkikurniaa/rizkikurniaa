@@ -28,6 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact&theme=onedark" height="165" />
 </a>
 </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p>
+<!-- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
