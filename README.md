@@ -3,7 +3,7 @@
 <h3 align="center">I am android developer.</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-rizki_Fkurniaa-blueviolet?style=flat&logo=instagram&logoColor=white")>
+<img src="https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white")>
 <img src="https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white">
 <img src="https://img.shields.io/badge/-rizki_Fkurniaa-black?style=flat&logo=x&logoColor=white">
 
