@@ -4,7 +4,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-rizki_kurniaa-blueviolet?style=flat&logo=instagram&logoColor=white")>
-<img src="https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/-kikulabs-darkred?style=flat&logo=youtube&logoColor=white">
 
 #### 💻 Stack I Work With
