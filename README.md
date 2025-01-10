@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rizki Kurnia</h1>
 
-<h3 align="center">I am Fullstack developer</h3>
+<!--<h3 align="center">I am Fullstack developer</h3>-->
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-rizki_kurniaa-purple?style=flat&logo=instagram&logoColor=white")> -->
