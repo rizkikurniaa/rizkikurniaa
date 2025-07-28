@@ -30,4 +30,16 @@
 </p>
 <!-- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rizkikurniaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="rizkikurniaa" width="774"  /> </p> -->
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkikurniaa&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rizkikurniaa&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
