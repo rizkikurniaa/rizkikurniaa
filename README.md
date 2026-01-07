@@ -29,6 +29,7 @@ I build mobile applications using modern Kotlin, Android, and Compose Multiplatf
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Compose%20Multiplatform-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Web
