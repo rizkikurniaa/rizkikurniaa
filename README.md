@@ -15,7 +15,7 @@ I build mobile applications using modern Kotlin, Android, and Compose Multiplatf
 
 ## 👨‍💻 About Me
 
-- 📱 Android Developer
+- 📱 Mobile Developer
 - 🧩 Experienced with **Jetpack Compose & Compose Multiplatform**
 - 🔍 Actively exploring **new tools, frameworks, and mobile technologies**
 
