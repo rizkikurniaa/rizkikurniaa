@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-I build mobile applications using modern Kotlin, Android, and Compose Multiplatform.
+I build mobile applications using modern Kotlin and Compose Multiplatform.
 </p>
 
 ---
